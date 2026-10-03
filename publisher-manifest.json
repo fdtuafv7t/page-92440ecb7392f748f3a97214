@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "3fd134e84b678cb557451b87",
+  "owner": "fdtuafv7t",
+  "repo": "page-92440ecb7392f748f3a97214",
+  "title": "Recursion",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "92440ecb7392f748f3a97214",
+      "a": "Recursion",
+      "b": "",
+      "entity": "Recursion",
+      "brand": "Recursion",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4546887c0988c5c66dde911e2a75d44dd0c506314e6ea53f09c8ee16a84ef584",
+      "content": {
+        "keyword1": "Recursion",
+        "keyword2": "",
+        "primary_entity": "Recursion",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Recursion提供高品质机场订阅与VPN网络加速服务，涵盖多套餐流量、流媒体解锁与游戏专线。本页介绍官方客户端下载、使用场景与常见问题。",
+          "AI_DESCRIPTION": "Recursion提供高品质机场订阅与VPN网络加速服务，涵盖多套餐流量、流媒体解锁与游戏专线。本页介绍官方客户端下载、使用场景与常见问题。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#f8f6f1;color:#1e3d32;font-size:17px;line-height:1.65}.wrap{max-width:680px;margin:0 auto;padding:8px 16px 32px;overflow-x:hidden}header{background:#1a4d2e;color:#f8f6f1;padding:14px 16px}header .brand{font-weight:700;font-size:1.1rem;margin-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px}header a{color:#e8f5e9;text-decoration:none;font-size:15px}main{display:block}h1{font-size:1.7rem;color:#16382a;margin:18px 0 10px;line-height:1.35}h2{font-size:1.32rem;color:#1a4d2e;margin:26px 0 10px;padding-bottom:5px;border-bottom:2px solid #2e7d4f}h3{font-size:1.12rem;color:#245c3b;margin:14px 0 6px}p{margin:0 0 12px}.lead{font-size:1.02rem}.cards{display:flex;flex-wrap:wrap;gap:12px;margin:14px 0 8px}.card{flex:1 1 250px;background:#fff;border:1px solid #c5d9c8;border-radius:6px;padding:14px}.card.featured{border:2px solid #2e7d4f;background:#f0f7f2}.badge{display:inline-block;background:#2e7d4f;color:#fff;font-size:12px;padding:2px 8px;border-radius:3px;margin-bottom:6px}.price{font-size:1.45rem;color:#1a4d2e;font-weight:700}.annual{font-size:0.92rem;color:#3d6b52;margin:4px 0 8px}.card ul{margin:0;padding-left:18px}.card li{margin:3px 0}details{background:#fff;border:1px solid #c5d9c8;border-radius:6px;padding:10px 12px;margin:0 0 10px}summary{font-weight:600;color:#1a4d2e}details p{margin:8px 0 4px}.box{background:#fff;border:1px dashed #a8c4b0;padding:12px;margin:10px 0;border-radius:4px}footer{background:#e8efe9;color:#3d6b52;padding:16px;font-size:14px;margin-top:20px}footer p{margin:0 0 8px}a{color:#1a4d2e}.sitemap ul{padding-left:18px;margin:8px 0}</style><header><div class=\"wrap\"><div class=\"brand\">Recursion 官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#guide\">下载与教程</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a><a href=\"#sitemap\">地图</a></nav></div></header><main class=\"wrap\"><h1>Recursion 机场与 VPN 网络加速官网</h1><p class=\"lead\">Recursion 提供稳定的机场订阅、多平台客户端与网络加速服务，帮助用户解锁流媒体、优化游戏线路并安全访问全球网络。以下为官方套餐、使用说明与常见问题。</p><section id=\"intro\"><h2>品牌简介</h2><p>Recursion 是专注线路质量与易用性的网络加速品牌，同时运营 Recursion机场 订阅与 Recursion VPN 客户端生态。我们整合香港、日本、新加坡、美国及欧洲等地区节点，提供普通线路与 IPLC 专线，满足浏览、办公、流媒体和游戏等不同需求。</p><p>服务以订阅制交付：用户选择基础版、旗舰版或团队版后获得专属订阅链接，即可在 Clash、v2rayN、Shadowrocket 等客户端中一键导入。Recursion 官方持续巡检节点、更新协议兼容性，并在旗舰与团队套餐中提供优先工单支持。所有套餐说明、客户端指引均以本 Recursion 官网信息为准，请认准官方渠道，避免第三方仿冒站点。</p><p>Recursion 重视合理使用。网络加速工具应用于合法跨境访问、学习研究与娱乐，用户应遵守所在地法律法规，不得用于违法活动。</p></section><section id=\"plans\"><h2>机场订阅套餐</h2><p>以下为 Recursion 当前公开套餐。流量为每月极速额度，设备数为同时在线上限。年付可锁定优惠价。具体开通以用户中心展示为准。</p><div class=\"cards\"><div class=\"card\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"card featured\"><div class=\"badge\">热门推荐</div><h3>旗舰版</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"card\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>国际流媒体与娱乐</h3><p>旗舰版与团队版强调原生解锁，适合在 Recursion VPN 连接后观看海外影视、体育直播与音乐平台。选择对应地区节点可提高成功率，基础版覆盖常见基础解锁需求。</p><h3>游戏与低延迟竞技</h3><p>IPLC 专线减少绕路，针对热门游戏区域做了路由优化。团队版高带宽节点更适合开黑或下载更新。连接后请在客户端筛选延迟较低的游戏向节点。</p><h3>远程办公、会议与学术访问</h3><p>稳定隧道便于使用海外协作套件、代码仓库与论文数据库。多设备同时在线让电脑、手机和平板可以共用同一 Recursion 订阅（受套餐设备数限制）。</p><h3>日常浏览与隐私保护</h3><p>加密传输可降低公共 Wi-Fi 风险，并加速部分国际网站访问。Recursion 建议按需连接，无需全局代理的场景可使用规则分流，节省流量并提升本地访问速度。</p></section><section id=\"guide\"><h2>操作说明与客户端下载</h2><h3>从订阅到连接</h3><p>1. 根据需求选择 Recursion 套餐并完成订阅。</p><p>2. 在 Recursion 用户中心复制机场订阅链接（或二维码）。</p><p>3. 安装与系统匹配的客户端（见下方建议）。</p><p>4. 在客户端中添加订阅、更新节点，测试延迟后连接。</p><p>5. 如需分流，导入 Recursion 提供的规则或使用客户端默认规则。</p><h3>各平台客户端建议</h3><p>Windows：v2rayN、Clash Verge 或类似 Clash 内核工具。macOS：ClashX Meta、Surge。Android：Clash Meta for Android、v2rayNG。iOS：Shadowrocket、Stash、Quantumult X。Linux 与路由器可使用兼容 Clash 或 sing-box 的方案。</p><p>Recursion 官网不直接嵌入安装包，以降低被篡改风险。请从各软件官方仓库、GitHub Release 或正规应用商店获取，并在 Recursion 控制台查看当期推荐版本说明。下载完成后仅导入您的个人订阅，不要使用来历不明的配置文件。</p><p id=\"download\">获取订阅后即可在多设备使用，注意不要超出套餐设备上限，否则可能被限制登录。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Recursion 机场和 Recursion VPN 是什么关系？</summary><p>Recursion机场 指订阅节点与流量套餐服务，Recursion VPN 指在此基础上的客户端连接与加速体验。购买任一公开套餐后，即可在支持的客户端中使用 Recursion 提供的线路，二者无需分开购买。</p></details><details><summary>怎样获取 Recursion 客户端官方下载指引？</summary><p>请阅读本页「操作说明与客户端下载」章节。我们列出主流系统对应的常用软件名称。实际安装文件请从软件官方渠道获取，Recursion 用户中心会同步适配提示。不要下载标注「Recursion 破解版」或来源不明的修改包。</p></details><details><summary>三个套餐分别适合什么人？</summary><p>基础版适合轻度浏览和偶尔解锁，每月 100GB、3 台设备。旗舰版是大多数个人用户的选择，300GB、5 设备，含原生流媒体与 IPLC 游戏优化及优先支持。团队版面向家庭共享、工作室或需要定制路由与专属经理的场景，流量与设备额度更大。</p></details><details><summary>连接后网速慢或流媒体失败如何处理？</summary><p>先更换节点并查看延迟与丢包。流媒体请选用该套餐支持解锁的区域节点。可尝试更新订阅、切换协议（如 WS、gRPC 等，以客户端与 Recursion 当期配置为准）。仍异常时，旗舰与团队用户可通过优先工单反馈节点编号。</p></details><details><summary>流量如何统计？用完会怎样？</summary><p>按实际代理流量计费，套餐内为每月极速额度。用尽后可能降速或暂停加速，直至下个计费周期重置。可在用户中心查看用量。年付用户同样按自然月或套餐周期重置，以账户显示为准。</p></details><details><summary>设备数超限或订阅泄漏怎么办？</summary><p>超出同时在线设备数时，新设备可能无法连接，请先下线闲置终端。若怀疑订阅链接泄露，立即在 Recursion 控制台重置链接，然后在所有客户端重新导入。请勿在论坛或聊天中公开个人订阅地址。</p></details></section><section id=\"ads\"><h2>服务公告</h2><div class=\"box\"><p>Recursion 官方公告：请收藏本 Recursion 官网以获取套餐与客户端说明。我们不通过来路不明的短链或群发邮件要求您二次付款。本区域仅作服务提示，无强制跳转广告。</p></div></section><section id=\"links\"><h2>友情链接</h2><div class=\"box\"><p>站内导航：<a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">订阅套餐</a> · <a href=\"#guide\">客户端下载说明</a> · <a href=\"#faq\">常见问题</a></p><p>合作与资源（示例锚点）：<a href=\"#sitemap\">网站地图</a> · <a href=\"#guide\">使用教程</a> · <a href=\"#plans\">价格方案</a></p></div></section><section id=\"sitemap\"><h2>网站地图</h2><ul class=\"sitemap\"><li><a href=\"#intro\">品牌简介 - Recursion机场与VPN介绍</a></li><li><a href=\"#plans\">订阅套餐 - 基础版/旗舰版/团队版</a></li><li><a href=\"#scenes\">使用场景 - 流媒体、游戏、办公</a></li><li><a href=\"#guide\">操作说明 - 客户端下载与导入订阅</a></li><li><a href=\"#faq\">常见问题 - 机场订阅与加速器答疑</a></li><li><a href=\"#ads\">服务公告</a></li><li><a href=\"#links\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>Recursion 官方网站 · Recursion机场 · Recursion VPN 网络加速与客户端信息服务</p><p>使用加速服务请遵守法律法规。节点与套餐可能调整，请以用户中心实时信息为准。</p><p><a href=\"#intro\">返回简介</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#sitemap\">网站地图</a></p></div></footer>",
+          "hash": "72b20e00b17b1e75fb94f5329604a52c5d36e603219a2b571a50f71490e84211",
+          "seo": {
+            "title": "Recursion 官方网站 - 机场订阅、VPN 梯子加速器与客户端下载",
+            "keywords": "Recursion,Recursion机场,Recursion VPN,机场订阅,客户端下载,网络加速,加速器,梯子,官网下载",
+            "description": "Recursion提供高品质机场订阅与VPN网络加速服务，涵盖多套餐流量、流媒体解锁与游戏专线。本页介绍官方客户端下载、使用场景与常见问题。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rzkjb.cn",
+    "host": "p-88e48786e3.rzkjb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "rzkjb.cn",
+      "url": "https://rzkjb.cn/",
+      "label": "穿天猴(XrayPort)",
+      "apex": "rzkjb.cn",
+      "kind": null,
+      "identity": "g5gxus/page-1307aeb352479a89566a772c"
+    },
+    {
+      "host": "6sieda.cn",
+      "url": "https://6sieda.cn/",
+      "label": "Recursion",
+      "apex": "6sieda.cn",
+      "kind": null,
+      "identity": "rtedbtqmng/page-c48562a1f7be9a376bb7236c"
+    },
+    {
+      "host": "aagcuel.cn",
+      "url": "https://aagcuel.cn/",
+      "label": "Recursion",
+      "apex": "aagcuel.cn",
+      "kind": null,
+      "identity": "vueukyavdu/page-d16689b1f124191129f5ba0e"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2d21d44d87fde73431a92c4063ba8b02abc02ea70c2811a38abea470b59778a0",
+    "sitemap.xml": "c07529848955ff2fc2805eab7cf7467a1ed2ccc34a133d8137283fc269507ae6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b16e79e7cce6359810cfc37ecd1a3db50c70b57496b6da2eb04312b363626aed",
+    "robots.txt": "51df57b3ae8540609890b216acd6e655cf3859ecf858cca6459ec977a347138f",
+    "8753b3cd8fce21fc2b718fad320e9bb0.txt": "d0d60bc1ad2aea547e3a8f261b7e84289b92939cdb460594a5c5b33ec1df4092"
+  },
+  "revision": "628346a0a3d3a63b14f54d1640fdf60bac8e55c73ee28c6dbd57f5ae6e8bc792"
+}
